@@ -1,0 +1,12 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/walletban/walletban-api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/walletban/walletban-frontend
+[submodule "sample-app"]
+	path = sample-app
+	url = https://github.com/walletban/counter-sample-app
+[submodule "sample-contract"]
+	path = sample-contract
+	url = https://github.com/walletban/counter-sample-contract
